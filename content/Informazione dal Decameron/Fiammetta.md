@@ -1,2 +1,13 @@
-> _"Piccola fiamma, ardente"_
+---
+title: "[[Filammetta.png|Fiammetta]]"
+draft: false
+tags:
+---
+$$ " \ Piccola \ fiamma, \ ardente \ " $$
+Fiammetta 
+
+
+
+
+
 
