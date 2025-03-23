@@ -1,9 +1,3 @@
----
-title: <% tp.file.title %>
-draft: false
-tags:
----
-
 Come la Lauretta si tacque, cosí, per comandamento della reina, cominciò Filomena:
 
 Amabili donne, come in noi è la pietá commendata, cosí ancora in noi è dalla divina giustizia rigidamente la crudeltá vendicata, il che acciò che io vi dimostri e materia vi déa di cacciarla del tutto da voi, mi piace di dirvi una novella non meno di compassion piena che dilettevole.
