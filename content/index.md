@@ -14,5 +14,4 @@ ciao
 # Nastagio nell'arte
 L'episodio della novella venne raffigurato da Sandro Botticelli in una serie di quattro pannelli, probabilmente commissionati da Lorenzo il Magnifico nel 1483 come dono di nozze per Giacomo Pucci, membro di un'antichissima casata fiorentina.
 Al giorno d'oggi i pannelli risultano separati: solo uno di essi si trova nella sua collocazione originale, al [Palazzo Pucci](https://www.eventiapalazzo.it/) a Firenze, mentre gli altri sono sono custoditi al [Museo del Prado](https://www.museodelprado.es/), a Madrid. 
-I quattro pannelli si possono vedere nella pagina dedicata al [[Riassunto|riassunto]] della novella. 
-
+I quattro pannelli si possono vedere nella pagina dedicata al [[Riassunto|riassunto]] della novella.
