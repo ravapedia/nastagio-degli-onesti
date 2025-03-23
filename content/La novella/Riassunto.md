@@ -1,4 +1,4 @@
-Nastagio degli Onesti è un nobile ravennate che ha ereditato un'immensa ricchezza dal padre e dallo zio. Innamoratosi di una [[giovane donna]], figlia di **Paolo Trasversaro**, sperpera in ogni modo le sue ricchezze al fine di farla innamorare di lui, ma lei crudelmente rifiuta ogni volta. 
+Nastagio degli Onesti è un nobile ravennate che ha ereditato un'immensa ricchezza dal padre e dallo zio. Innamoratosi di una [[Giovane donna|giovane donna]], figlia di **Paolo Trasversaro**, sperpera in ogni modo le sue ricchezze al fine di farla innamorare di lui, ma lei crudelmente rifiuta ogni volta. 
 Persuaso da amici e conoscenti, Nastagio decide di partire e allontanarsi da Ravenna, per dimenticarsi della donna e iniziare una nuova vita. Il nobile raggiunge quindi **Chiassi**, poco distante dalla città. Standosene da solo in un bosco a riflettere, vede una donna, nuda, correre e urlare mentre scappa da due feroci mastini, comandati da un cavaliere in armatura a cavallo.
 <div style="text-align: center;">
     <img src= "Galleria immagini/Primo episodio.png" width="700">
