@@ -8,4 +8,4 @@ L'atteggiamento sdegnoso della donna, la sua arroganza e apparente senso di supe
 
 ---
 
-La donna è anche protagonista di una caccia 
+La donna è anche protagonista di una [[Caccia infernale|caccia selvaggia]], tema particolarmente frequente nel Medioevo. 
