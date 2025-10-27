@@ -1,6 +1,6 @@
 ---
 title: Linea separatoria
-draft: true
+draft: false
 tags:
 ---
 

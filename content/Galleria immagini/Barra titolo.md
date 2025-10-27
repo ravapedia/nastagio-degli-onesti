@@ -1,6 +1,6 @@
 ---
 title: Barra titolo
-draft: true
+draft: false
 tags:
 ---
 
