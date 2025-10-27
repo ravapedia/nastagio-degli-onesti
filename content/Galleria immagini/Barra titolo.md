@@ -1,7 +1,2 @@
----
-title: Barra titolo
-draft: false
-tags:
----
-
 ![[Barra titolo.png]]
+![[Titolo barra.png]]
